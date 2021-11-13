@@ -6,3 +6,7 @@
     width:1200px;
     margin:auto;
 }
+.header{
+       height: 42px;
+       background-color: pink;
+}
