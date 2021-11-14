@@ -35,4 +35,6 @@ a {
 <!--自我介绍区域 -->
 .content {
     height: 2100px;
+    background-color:pink;
+}
 }
