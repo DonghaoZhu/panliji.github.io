@@ -6,6 +6,9 @@
     width:1200px;
     margin:auto;
 }
+li {
+    list-style: none;
+}
 .header{
        height: 42px;
        background-color: pink;
