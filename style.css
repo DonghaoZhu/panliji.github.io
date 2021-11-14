@@ -21,3 +21,7 @@ li {
 .nav ul li {
     float: left;
 }
+.nav ul li a {
+    height: 42px;
+    padding: 0 10px;
+}
