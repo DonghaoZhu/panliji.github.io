@@ -26,9 +26,9 @@ a {
 }
 .main ul li a {
     display: block;
-    height: 50px;
-    line-height:50px;
-    font-size: 18px;
+    height: 60px;
+    line-height:60px;
+    font-size: 20px;
     color:white;
 }
 .nav{
@@ -40,10 +40,10 @@ a {
 }
 .nav ul li a {
     display: block;
-    height: 50px;
+    height: 60px;
     padding: 0 20px;
-    line-height:50px;
-    font-size: 14px;
+    line-height:60px;
+    font-size: 16px;
     color:white;
 }
 .langu{
@@ -58,7 +58,7 @@ a {
     height: 80px;
     padding: 0 5px;
     line-height:60px;
-    font-size: 14px;
+    font-size: 16px;
     color:white;
 }
 .content{
@@ -75,7 +75,7 @@ a {
     margin: 30px auto;
 }
 .text h2 {
-    font-size: 28px;
+    font-size: 30px;
     font-weight: 400;
     text-align: left;
     color:#0161ac;
@@ -83,7 +83,7 @@ a {
     margin-bottom: 10px;
 }
 .text h3 {
-    font-size: 20px;
+    font-size: 22px;
     font-weight: 400;
     text-align: left;
     color: rgb(90, 90, 90);
@@ -94,7 +94,7 @@ fieldset {
     margin: 10px 0px 20px 0px;
 }
 .text p{
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 400;
     color: rgb(90, 90, 90);
     margin: 10px 0px 10px 0px;
