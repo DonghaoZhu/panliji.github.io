@@ -65,15 +65,15 @@ a {
     color:white;
 }
 .content{
-    height: 700px;
+    height: 750px;
 }
 .content .w{
-    height: 700px;
+    height: 750px;
 }
 .text {
     float: left;
     width:850px;
-    height:700px;
+    height:750px;
     font: 20px;
     margin: 30px auto;
 }
