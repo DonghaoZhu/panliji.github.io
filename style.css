@@ -68,7 +68,7 @@ a {
 }
 .text {
     float: left;
-    width:820px;
+    width:850px;
     height:600px;
     font: 20px;
     margin: 30px auto;
@@ -100,7 +100,7 @@ fieldset {
 }
 .subimg {
     float: right;
-    width: 380px;
+    width: 400px;
     height: auto;
     margin: 20px auto;
 }
