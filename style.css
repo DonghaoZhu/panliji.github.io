@@ -114,7 +114,8 @@ fieldset {
 .news{
     float: none;
     height:350px;
-    background-color: #eeeeee;
+    margin: 20px auto;
+    background: url(images/news.png) no-repeat;
 }
 .paper{
     float:left;
